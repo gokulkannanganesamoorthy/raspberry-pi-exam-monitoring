@@ -1,0 +1,8 @@
+opencv-python
+picamera2
+face-recognition
+numpy
+requests
+firebase-admin
+python-dotenv
+pickle5

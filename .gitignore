@@ -1,0 +1,20 @@
+# Ignore PDF files
+*.pdf
+
+# Except IEEE_report.pdf
+!IEEE_report_PUBLISHING.pdf
+
+# Ignore Word documents
+*.doc
+*.docx
+
+# Ignore PNG images
+*.png
+
+# Ignore SVG images
+*.svg
+
+# Ignore node_modules directory
+node_modules/
+
+mat.py
